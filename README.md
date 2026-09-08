@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohan Rukshika</h1>
 
 <h3 align="center">
-🎓 Computer Science Undergraduate | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast
+🎓 Computer Science Undergraduate &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🤖 AI/ML Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;Full-Stack+Web+Developer;Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+MongoDB;Data+Science+%7C+Machine+Learning;AI+Enthusiast;Building+Real-World+Projects;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;Full-Stack+Web+Developer;Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+MongoDB;Data+Science+%7C+Machine+Learning;AI+Enthusiast;Hackathon+Participant;Building+Real-World+Projects;Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
@@ -15,13 +15,20 @@
   <a href="https://www.linkedin.com/in/mohan-rukshika">
     <img src="https://img.shields.io/badge/LinkedIn-Mohan%20Rukshika-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="https://medium.com/@mohanrukshika">
+    <img src="https://img.shields.io/badge/Medium-@mohanrukshika-black?style=for-the-badge&logo=medium" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohanRukshika&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 I'm a **Computer Science undergraduate at Eastern University of Sri Lanka** with a strong interest in software engineering, Artificial Intelligence, and Machine Learning.
+🎓 I'm a **Computer Science undergraduate at Eastern University of Sri Lanka** (GPA: 3.8 / 4.0) with a strong interest in software engineering, Artificial Intelligence, and Machine Learning.
 
 💻 I enjoy building **full-stack web applications** and exploring how frontend, backend, databases, APIs, and authentication work together to create useful software.
 
@@ -31,17 +38,19 @@
 
 🐍 I'm developing my Python skills for **Data Science and Machine Learning**, working with **NumPy, Pandas, Matplotlib, and Scikit-learn**.
 
-🤖 I'm particularly interested in **Artificial Intelligence and Machine Learning** and currently strengthening my foundations in mathematics, statistics, data analysis, and machine learning algorithms.
+🤖 I'm particularly interested in **Artificial Intelligence and Machine Learning** and am currently strengthening my foundations in mathematics, statistics, data analysis, and ML algorithms.
 
-⚙️ I'm also interested in learning more about **DevOps, Linux, cloud technologies, deployment, and modern software development practices**.
+⚙️ I'm also exploring **DevOps, Linux, cloud technologies, deployment, and modern software development practices**.
 
 🧠 I learn best through **building projects, experimenting with technologies, and solving practical problems**.
+
+✍️ I write about technology and what I learn on **Medium**.
 
 🚀 My goal is to grow into a strong software engineer while developing deeper expertise in **AI/ML and software development**.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
@@ -69,14 +78,14 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-`Node.js` `Express.js` `REST APIs` `JWT` `Authentication`
+`Node.js` `Express.js` `REST APIs` `JWT` `Authentication` `bcrypt`
 
 ---
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
 `MongoDB` `Mongoose` `MySQL` `SQL` `Firebase`
@@ -111,222 +120,193 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma,linux,vercel" />
 </p>
 
-`Git` `GitHub` `VS Code` `Postman` `npm` `Figma` `Linux` `Kali Linux` `Vercel`
+`Git` `GitHub` `VS Code` `Postman` `npm` `Figma` `Linux` `Kali Linux` `Vercel` `Render`
 
 ---
 
-# 🚀 Projects
-
-## 🛍️ Applix — E-Commerce Platform
-
-A full-stack e-commerce platform developed to strengthen my skills in modern web development, backend development, authentication, API integration, and database management.
-
-### Highlights
-
-- 🛒 E-commerce functionality
-- 🔐 User authentication
-- 📦 Product management
-- 🔄 REST API integration
-- 🗄️ Database integration
-- 💻 Full-stack architecture
-
-### Technologies
-
-`React` `Node.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS`
+## 🚀 Projects
 
 ---
 
-## 🤖 AI Chatbot
+### 🛍️ Applix — Full-Stack E-Commerce Platform
 
-An AI chatbot project developed to explore the integration of Large Language Models into applications using the **Groq API and LLaMA**.
+> A full-featured furniture e-commerce platform built to strengthen my skills in modern full-stack development, authentication, REST API design, and database management.
 
-### Highlights
+🔗 **Live Demo:** [applix-furnitures.vercel.app](https://applix-furnitures.vercel.app)
 
-- 🤖 AI-powered conversations
-- 🔌 Groq API integration
-- 🧠 LLaMA integration
-- 💬 Interactive chatbot experience
+**Highlights:**
+- 🛒 Complete e-commerce flow — product browsing, cart, and order management
+- 🔐 JWT-based user authentication with bcrypt password hashing
+- 📦 Admin product management with Mongoose schema validation
+- 🔄 RESTful API with proper route protection and middleware
+- 🗄️ MongoDB + Mongoose with structured data modeling
+- 🚀 Deployed on **Vercel** (frontend) and **Render** (backend)
 
-### Technologies
+**Technologies:**
+`React` `Vite` `Node.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS` `JWT` `bcrypt`
 
+---
+
+### 🤖 AI Chatbot
+
+> An AI chatbot developed to explore the integration of Large Language Models into applications using the **Groq API and LLaMA**.
+
+**Highlights:**
+- 🤖 AI-powered conversational interface
+- 🔌 Groq API integration with LLaMA
+- 💬 Interactive, real-time chatbot experience
+
+**Technologies:**
 `Java` `Groq API` `LLaMA`
 
 ---
 
-## 📚 Library Management System
+### 📚 Library Management System
 
-A Java-based desktop application developed using **Java Swing** to practice object-oriented programming, GUI development, and application logic.
+> A Java desktop application built using **Java Swing** to practice object-oriented programming, GUI development, and application logic design.
 
-### Highlights
+**Highlights:**
+- 📚 Full library management with book and member records
+- 📖 Borrow and return tracking with due-date logic
+- 🖥️ Java Swing GUI with a clean, functional interface
+- ☕ Designed with OOP principles — encapsulation, inheritance, and abstraction
 
-- 📚 Library management
-- 👤 Member management
-- 📖 Book management
-- 🔄 Borrow and return functionality
-- 🖥️ Java Swing GUI
-- ☕ Object-oriented programming
-
-### Technologies
-
+**Technologies:**
 `Java` `Java Swing` `OOP`
 
 ---
 
-## ☕ Golden Drip — Coffee Shop Website
+### 🌦️ Weather Application
 
-A coffee shop website developed to practice frontend development and create a modern web experience for a coffee shop brand.
+> A web app built to practice JavaScript, asynchronous API requests, and dynamic data rendering.
 
-### Technologies
-
-`HTML` `CSS` `JavaScript`
-
----
-
-## 🌦️ Weather Application
-
-A web application developed to practice JavaScript, API integration, asynchronous requests, and dynamic data rendering.
-
-### Features
-
-- 🌤️ Weather information
-- 🔎 Location search
-- 🌡️ Weather data
+**Highlights:**
+- 🌤️ Real-time weather data by city search
+- 🌡️ Temperature, humidity, wind speed, and conditions
 - 🌐 OpenWeather API integration
-- 📱 Responsive interface
+- 📱 Fully responsive interface
 
-### Technologies
-
+**Technologies:**
 `HTML` `CSS` `JavaScript` `OpenWeather API`
 
 ---
 
-## 🍽️ Restaurant Web Application
+### 🍽️ Restaurant Web Application
 
-A restaurant-focused web application developed to practice modern web development, frontend development, backend functionality, and database integration.
+> A restaurant-focused web application practicing modern full-stack development and database integration.
 
-### Technologies
-
+**Technologies:**
 `React` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-## 🌐 Personal Portfolio
+### ☕ Golden Drip — Coffee Shop Website
 
-A personal portfolio website created to showcase my projects, technical skills, achievements, and learning journey.
+> A modern coffee shop website built to practice frontend design and branding.
 
-### Technologies
-
+**Technologies:**
 `HTML` `CSS` `JavaScript`
 
 ---
 
-# 📚 Currently Learning
+### 🌐 Personal Portfolio
 
-## 🤖 Artificial Intelligence & Machine Learning
+> A personal portfolio website showcasing my projects, skills, achievements, and learning journey.
 
-- 🐍 Python for Machine Learning
-- 🔢 NumPy
-- 🐼 Pandas
-- 📊 Matplotlib
-- 🤖 Scikit-learn
-- 📈 Statistics
-- 🧮 Mathematics for Machine Learning
-- 🧠 Machine Learning algorithms
-- 📊 Data analysis
-- 🤖 AI/ML fundamentals
+**Technologies:**
+`HTML` `CSS` `JavaScript`
 
 ---
 
-## 💻 Software Engineering
+## 🏆 Hackathons & Competitions
 
-- ⚛️ Advanced React
-- ⚙️ Backend development
-- 🔌 REST API design
-- 🗄️ Database management
-- 🏗️ Software architecture
-- 📈 Scalable application development
+| Event | Role | Description |
+|---|---|---|
+| **iDEALIZE 2026** — AIESEC at University of Moratuwa | Participant | Built a real-time AI-powered prototype under competition conditions |
 
 ---
 
-## ⚙️ DevOps & Cloud
+## 📚 Currently Learning
 
-Currently exploring:
+### 🤖 Artificial Intelligence & Machine Learning
+- Python for ML · NumPy · Pandas · Matplotlib · Scikit-learn
+- Statistics · Mathematics for Machine Learning
+- Machine Learning algorithms · Data Analysis · AI/ML fundamentals
 
-- 🐧 Linux
-- 🐳 Docker
-- 🔄 CI/CD
-- ☁️ Cloud technologies
-- 🚀 Deployment
-- ⚙️ DevOps fundamentals
+### 💻 Software Engineering
+- Advanced React · Backend architecture · REST API design
+- Database management · Software architecture · Scalable systems
+
+### ⚙️ DevOps & Cloud
+- Linux · Docker · CI/CD · Cloud technologies · Deployment pipelines
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-### Eastern University of Sri Lanka
-
+### Eastern University of Sri Lanka — Trincomalee Campus
 **Bachelor of Science in Computer Science**
-
-📅 2024 – 2027
-
-**GPA: 3.75 / 4.00**
+📅 2024 – 2027 &nbsp;|&nbsp; **GPA: 3.8 / 4.0**
 
 ---
 
-# 🏆 Certifications & Learning
+## 🏅 Certifications & Learning
 
-- ☕ **Java Certification** — HackerRank
-- 💻 **JavaScript Certification** — HackerRank
-- 🐍 **Python Certification** — HackerRank
-- 🐼 **Pandas Certification** — Kaggle
-- 🤖 **AI Fluency: Framework & Foundations** — Anthropic
-- ☁️ **Oracle Cloud Infrastructure AI Foundations Associate**
-- 🤖 **AI Agent Builder Camp** — Google for Developers × GeeksforGeeks
-- 🎨 **Responsive Web Design** — freeCodeCamp
+| Badge | Certification | Issuer |
+|---|---|---|
+| ☕ | Java Certification | HackerRank |
+| 💻 | JavaScript Certification | HackerRank |
+| 🐍 | Python Certification | HackerRank |
+| 🐼 | Pandas Certification | Kaggle |
+| 🤖 | AI Fluency: Framework & Foundations | Anthropic |
+| ☁️ | Oracle Cloud Infrastructure AI Foundations Associate | Oracle |
+| 🤖 | AI Agent Builder Camp | Google for Developers × GeeksforGeeks |
+| 🎨 | Responsive Web Design | freeCodeCamp |
 
 ---
 
-# 🌱 Areas of Interest
+## 🌱 Areas of Interest
 
 <p align="center">
 
-💻 Software Engineering &nbsp; • &nbsp;
-🌐 Full-Stack Development &nbsp; • &nbsp;
+💻 Software Engineering &nbsp;•&nbsp;
+🌐 Full-Stack Development &nbsp;•&nbsp;
 ⚙️ Backend Development
 
 <br><br>
 
-🐍 Python &nbsp; • &nbsp;
-📊 Data Science &nbsp; • &nbsp;
-🤖 Machine Learning &nbsp; • &nbsp;
+🐍 Python &nbsp;•&nbsp;
+📊 Data Science &nbsp;•&nbsp;
+🤖 Machine Learning &nbsp;•&nbsp;
 🧠 Artificial Intelligence
 
 <br><br>
 
-☁️ Cloud Technologies &nbsp; • &nbsp;
-⚙️ DevOps &nbsp; • &nbsp;
-🌎 Open Source
+☁️ Cloud Technologies &nbsp;•&nbsp;
+⚙️ DevOps &nbsp;•&nbsp;
+🌎 Open Source &nbsp;•&nbsp;
+✍️ Technical Writing
 
 </p>
 
 ---
 
-# 🎯 Goals
+## 🎯 Goals
 
 - 🚀 Become a strong software engineer
 - 💻 Build meaningful full-stack applications
 - 🤖 Develop strong foundations in AI and Machine Learning
-- 📊 Improve my data science and analytical skills
+- 📊 Improve data science and analytical skills
 - 🏗️ Strengthen backend and software architecture knowledge
 - ⚙️ Develop practical DevOps and cloud skills
 - 🌎 Contribute to open-source projects
-- 💼 Prepare for software engineering internship opportunities
+- 💼 Secure a software engineering internship in Colombo
 - 💡 Build technology that solves real-world problems
 - 📚 Continuously learn and improve
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -339,55 +319,36 @@ Currently exploring:
 <table>
 <tr>
 <td width="50%" align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohanRukshika&theme=github_dark" alt="Repositories by Language"/>
-
 </td>
-
 <td width="50%" align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohanRukshika&theme=github_dark" alt="Most Used Languages"/>
-
 </td>
 </tr>
 </table>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanRukshika&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</div>
+
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/MohanRukshika">
-  <img src="https://img.shields.io/badge/GitHub-MohanRukshika-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/mohan-rukshika">
-  <img src="https://img.shields.io/badge/LinkedIn-Mohan%20Rukshika-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
+  <a href="https://github.com/MohanRukshika">
+    <img src="https://img.shields.io/badge/GitHub-MohanRukshika-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohan-rukshika">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohan%20Rukshika-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://medium.com/@mohanrukshika">
+    <img src="https://img.shields.io/badge/Medium-@mohanrukshika-000000?style=for-the-badge&logo=medium" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">
-Curious Mind • Continuous Learning • Building With Purpose
-</h3>
+<h3 align="center">Curious Mind &nbsp;•&nbsp; Continuous Learning &nbsp;•&nbsp; Building With Purpose</h3>
 
-<p align="center">
-  Thanks for visiting my profile! ⭐
-</p>
-<!--
-**MohanRukshika/MohanRukshika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">Thanks for visiting my profile! ⭐</p>
