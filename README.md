@@ -85,10 +85,10 @@
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-`MongoDB` `Mongoose` `MySQL` `SQL` `Firebase`
+`MongoDB` `Mongoose` `MySQL` `SQL`
 
 ---
 
@@ -174,47 +174,6 @@
 **Technologies:**
 `Java` `Java Swing` `OOP`
 
----
-
-### 🌦️ Weather Application
-
-> A web app built to practice JavaScript, asynchronous API requests, and dynamic data rendering.
-
-**Highlights:**
-- 🌤️ Real-time weather data by city search
-- 🌡️ Temperature, humidity, wind speed, and conditions
-- 🌐 OpenWeather API integration
-- 📱 Fully responsive interface
-
-**Technologies:**
-`HTML` `CSS` `JavaScript` `OpenWeather API`
-
----
-
-### 🍽️ Restaurant Web Application
-
-> A restaurant-focused web application practicing modern full-stack development and database integration.
-
-**Technologies:**
-`React` `Node.js` `Express.js` `MongoDB`
-
----
-
-### ☕ Golden Drip — Coffee Shop Website
-
-> A modern coffee shop website built to practice frontend design and branding.
-
-**Technologies:**
-`HTML` `CSS` `JavaScript`
-
----
-
-### 🌐 Personal Portfolio
-
-> A personal portfolio website showcasing my projects, skills, achievements, and learning journey.
-
-**Technologies:**
-`HTML` `CSS` `JavaScript`
 
 ---
 
