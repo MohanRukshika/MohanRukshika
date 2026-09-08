@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/mohan-rukshika">
     <img src="https://img.shields.io/badge/LinkedIn-Mohan%20Rukshika-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://medium.com/@mohanrukshika">
+  <a href="https://medium.com/@mohanrukshika054">
     <img src="https://img.shields.io/badge/Medium-@mohanrukshika-black?style=for-the-badge&logo=medium" />
   </a>
 </p>
@@ -342,7 +342,7 @@
   <a href="https://www.linkedin.com/in/mohan-rukshika">
     <img src="https://img.shields.io/badge/LinkedIn-Mohan%20Rukshika-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://medium.com/@mohanrukshika">
+  <a href="https://medium.com/@mohanrukshika054">
     <img src="https://img.shields.io/badge/Medium-@mohanrukshika-000000?style=for-the-badge&logo=medium" />
   </a>
 </p>
