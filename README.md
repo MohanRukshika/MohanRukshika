@@ -28,7 +28,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 I'm a **Computer Science undergraduate at Eastern University of Sri Lanka** (GPA: 3.8 / 4.0) with a strong interest in software engineering, Artificial Intelligence, and Machine Learning.
+🎓 I'm a **Computer Science undergraduate at Eastern University of Sri Lanka** (CGPA: 3.75 / 4.0) with a strong interest in software engineering, Artificial Intelligence, and Machine Learning.
 
 💻 I enjoy building **full-stack web applications** and exploring how frontend, backend, databases, APIs, and authentication work together to create useful software.
 
