@@ -263,32 +263,6 @@
 - 💡 Build technology that solves real-world problems
 - 📚 Continuously learn and improve
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohanRukshika&theme=github_dark" alt="GitHub Profile Details"/>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohanRukshika&theme=github_dark" alt="Repositories by Language"/>
-</td>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohanRukshika&theme=github_dark" alt="Most Used Languages"/>
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanRukshika&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 ---
 
